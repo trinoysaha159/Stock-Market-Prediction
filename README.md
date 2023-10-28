@@ -6,3 +6,4 @@ To achieve this, I have developed a stock price prediction system that integrate
 
 LSTMs (Long Short-Term Memory networks) play a pivotal role in this project, particularly in the context of sequence prediction. LSTMs excel at retaining and utilizing past information, a crucial factor when predicting stock prices. Given that a stock's previous price is often a key indicator for its future price, LSTMs prove invaluable in this regard. While predicting the exact price of a stock remains a challenging endeavor, I have constructed a model that can predict the stock's price movement, whether it will rise or fall, offering valuable insights for investors.
 ## Dataset:-
+https://www.kaggle.com/datasets/akshaydattatraykhare/nsetataglobal
